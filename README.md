@@ -17,7 +17,9 @@ grass.densityScale 0 - Removes high grass
 </pre>
 
 Or copy this:
-<pre>r.VolumetricFog 0|r.VolumetricShadow 0|r.ShadowQuality 0|r.VolumetricCloud 0|Grass.enable 0|grass.densityScale 0</pre>
+```
+r.VolumetricFog 0|r.VolumetricShadow 0|r.ShadowQuality 0|r.VolumetricCloud 0|Grass.enable 0|grass.densityScale 0
+```
 
 ### Optional commands
 > [!WARNING]
