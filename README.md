@@ -1,4 +1,4 @@
-# <div align="center">Performance Mode</div>
+<h1 align="center">Performance Mode</h1>
 
 Welcome to the GitHub repository for **"Performance Mode"** – your go-to resource for optimizing gaming performance.
 Discover a curated collection of commands and settings designed to enhance your gaming experience by boosting FPS.
